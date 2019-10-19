@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554211073 source:c:\users\shubham\desktop\dsapr\dsapr.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+

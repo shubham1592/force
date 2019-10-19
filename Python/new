@@ -1,0 +1,6 @@
+import re
+k=str(input(''))
+if re.match('f.o',k):
+	print('hell yeah')
+else:
+	print('fuck off')

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540398050 source:c:\users\shubham\desktop\adfs\asd.c
+	<stdio.h>
+	<stdlib.h>
+
+1552758620 source:c:\users\shubham\desktop\c_progruf\asd.c
+	<stdio.h>
+	<stdlib.h>
+
+1551425326 source:c:\users\shubham\desktop\c_progruf\untitled1.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
