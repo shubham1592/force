@@ -7,13 +7,14 @@ scanf("%d", &n);
 printf("Enter array elements\n");
 for (c = 0; c < n ; c++)
 scanf("%d", &a[c]);
-
-/* Copying elements into array b starting from end of array a */
+/*kolala bear*/
+/* jdkjkd */
 for (c = n - 1, d = 0; c >= 0; c--, d++)
  b[d] = a[c];
-/* Copying reversed array into the original. Here we are modifying original array, this is optional. */
+/* copying the reversed array into the origional*/
 for (c = 0; c < n; c++)
 a[c] = b[c];
+ /*reverses the array*/
 printf("Reverse array is\n");
 for (c = 0; c < n; c++)
 printf("%d\n", a[c]);
