@@ -18,8 +18,7 @@ for b in range(0,len(M)):
     a=a+M[b]
 print("Cost is:",a)
 
-
-    
+#this is a comment
    
         
         
